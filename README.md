@@ -1,7 +1,8 @@
 # Executable-Parser_Elf-Parser
 AI generated code to get data from the .text sections from ELF or EXE files to begin working on a disassembler project
 
-Why AI? because this was just used to obtain EXE / ELF data or more importantly Valid data from a file that we can begin to disassemble into assembly code
+Why AI? because this was just used to obtain EXE / ELF data or more importantly Valid data from a file that we can begin to disassemble into assembly code.
+
 why not just use objdump or some other method? 1. Learning 2. Why not 3. shut up with your logic
 
 YOU NEED TO COMPILE WITH AT LEAST C++20 OR NEWER, I ONLY TESTED COMPILING WITH C++23
